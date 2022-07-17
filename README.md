@@ -38,7 +38,10 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    flutter pub get
    ```
-
+3. Create new firebase project and add data into firestore database and storage.
+  
+Note: Make sure your firestore rules are allow to fetch data.
+[![Product Name Screen Shot][firebase-rules-screenshot]]
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -72,3 +75,4 @@ Project Link: [https://github.com/Sameera-Perera/flutter-carousel-slider-example
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: http://www.linkedin.com/in/sameera-perera-1148081b8
 [product-screenshot]: home.png
+[firebase-rules-screenshot]: firebase-rules.png

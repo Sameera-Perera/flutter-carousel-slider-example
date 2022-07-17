@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 3. Create new firebase project and add data into firestore database and storage.
   
 Note: Make sure your firestore rules are allow to fetch data.
-[![Product Name Screen Shot][firebase-rules-screenshot]]
+[firebase-rules-screenshot]
 
 <!-- USAGE EXAMPLES -->
 ## Usage
